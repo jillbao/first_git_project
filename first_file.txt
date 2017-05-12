@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first. edit1.lulu
+=======
+first
+>>>>>>> parent of 9698a2c... update the first file
